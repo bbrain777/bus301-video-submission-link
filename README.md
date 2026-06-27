@@ -1,4 +1,4 @@
-# BYU Video Submission Links
+# BUS301 and CSE212 Video Submission Links
 
 This repository tracks BYU-related video submissions that were relocated from the old YouTube channel to the **Tayo Obademi Tech** channel.
 
